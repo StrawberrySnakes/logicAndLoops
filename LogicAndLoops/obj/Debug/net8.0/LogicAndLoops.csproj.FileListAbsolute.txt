@@ -1,0 +1,15 @@
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.AssemblyInfoInputs.cache
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.AssemblyInfo.cs
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.csproj.CoreCompileInputs.cache
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.sourcelink.json
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.exe
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.deps.json
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.runtimeconfig.json
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.dll
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.pdb
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.dll
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\refint\LogicAndLoops.dll
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.pdb
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.genruntimeconfig.cache
+D:\Profiles\djs9826\source\repos\logicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\ref\LogicAndLoops.dll
